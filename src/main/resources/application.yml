@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+aws:
+  accessKeId:
+  secretKey:
+  region: us-east-1
+  queue-url:
